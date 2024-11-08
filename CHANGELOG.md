@@ -1,2 +1,3 @@
-## 0.0.1
-initial release.
+## [0.0.1] - 2024-11-08
+- Initial release of the Arc Text package for Flutter.
+- Provides animations and customization options for creating curved text logos.
