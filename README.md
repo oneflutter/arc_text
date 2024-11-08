@@ -1,5 +1,3 @@
-<h1>flutter_arc_text</h1>
-
 <p><strong>flutter_arc_text</strong> is a Flutter package that allows you to display text along an arc. This can be useful for creating logos, unique UI elements, or adding a creative touch to your Flutter applications. The package also supports animations, allowing for dynamic text displays along curved paths.</p>
 
 <h2>Features</h2>
@@ -67,9 +65,9 @@ class ArcTextExample extends StatelessWidget {
   <li><strong>style</strong>: The text style, including font size, color, and weight.</li>
 </ul>
 
-<img src="https://github.com/user-attachments/assets/2b5b897e-0bda-4ada-818c-cc864e4f3cd3" alt="Image 9" height="400" width="200">
-<img src="https://github.com/user-attachments/assets/2110df81-092f-48a9-83e7-5b875cca8cd9" alt="Image 9" height="400" width="200">
-
+<img src="https://github.com/user-attachments/assets/2b5b897e-0bda-4ada-818c-cc864e4f3cd3" alt="Image 1" height="400" width="200">
+<img src="https://github.com/user-attachments/assets/2110df81-092f-48a9-83e7-5b875cca8cd9" alt="Image 2" height="400" width="200">
+<img src="https://github.com/user-attachments/assets/47c77dae-fff9-47f8-b74a-803720928d73" alt="arc_text_demo_vid" height="400" width="200">
 
 <h2>Additional Information</h2>
 
