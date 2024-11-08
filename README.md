@@ -67,6 +67,8 @@ class ArcTextExample extends StatelessWidget {
   <li><strong>style</strong>: The text style, including font size, color, and weight.</li>
 </ul>
 
+<img src="https://github.com/user-attachments/assets/2b5b897e-0bda-4ada-818c-cc864e4f3cd3" alt="Image 9" height="400" width="200">
+
 <h2>Additional Information</h2>
 
 <h3>Contributing</h3>
