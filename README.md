@@ -68,6 +68,8 @@ class ArcTextExample extends StatelessWidget {
 </ul>
 
 <img src="https://github.com/user-attachments/assets/2b5b897e-0bda-4ada-818c-cc864e4f3cd3" alt="Image 9" height="400" width="200">
+<img src="https://github.com/user-attachments/assets/2110df81-092f-48a9-83e7-5b875cca8cd9" alt="Image 9" height="400" width="200">
+
 
 <h2>Additional Information</h2>
 
