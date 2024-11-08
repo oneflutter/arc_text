@@ -1,6 +1,6 @@
 name: arc_text
 description: "A Flutter package for creating animated arc text for app logos and more."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/oneflutter/arc_text.git
 
 environment:

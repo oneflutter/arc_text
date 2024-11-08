@@ -16,7 +16,7 @@
 <pre>
 <code>
 dependencies:
-  flutter_arc_text: ^0.0.1
+  flutter_arc_text: ^0.0.2
 </code>
 </pre>
 
@@ -28,7 +28,7 @@ dependencies:
 
 <pre>
 <code>
-import 'package:flutter_arc_text/flutter_arc_text.dart';
+import 'package:arc_text/arc_text.dart';
 
 class ArcTextExample extends StatelessWidget {
   @override
