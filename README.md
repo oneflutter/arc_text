@@ -9,10 +9,6 @@
   <li><strong>Compatibility</strong>: Works seamlessly on iOS, Android, and web platforms.</li>
 </ul>
 
-<h2>Getting Started</h2>
-
-<p><em>TODO</em>: List prerequisites and provide or point to information on how to start using the package.</p>
-
 <h2>Installation</h2>
 
 <p>Add <code>flutter_arc_text</code> as a dependency in your <code>pubspec.yaml</code> file:</p>
