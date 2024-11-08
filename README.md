@@ -1,4 +1,4 @@
-<p><strong>flutter_arc_text</strong> is a Flutter package that allows you to display text along an arc. This can be useful for creating logos, unique UI elements, or adding a creative touch to your Flutter applications. The package also supports animations, allowing for dynamic text displays along curved paths.</p>
+<p><strong>arc_text</strong> is a Flutter package that allows you to display text along an arc. This can be useful for creating logos, unique UI elements, or adding a creative touch to your Flutter applications. The package also supports animations, allowing for dynamic text displays along curved paths.</p>
 
 <h2>Features</h2>
 
@@ -11,12 +11,12 @@
 
 <h2>Installation</h2>
 
-<p>Add <code>flutter_arc_text</code> as a dependency in your <code>pubspec.yaml</code> file:</p>
+<p>Add <code>arc_text</code> as a dependency in your <code>pubspec.yaml</code> file:</p>
 
 <pre>
 <code>
 dependencies:
-  flutter_arc_text: ^0.0.2
+  arc_text: ^0.0.3
 </code>
 </pre>
 
