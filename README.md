@@ -16,7 +16,7 @@
 <pre>
 <code>
 dependencies:
-  arc_text: ^0.0.3
+  arc_text: ^0.0.4
 </code>
 </pre>
 
