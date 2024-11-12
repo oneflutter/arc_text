@@ -1,7 +1,7 @@
 library arc_text;
+
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-
 
 /// A widget that displays text in an arc shape.
 class ArcText extends StatelessWidget {
@@ -27,17 +27,18 @@ class ArcText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => CustomPaint(
-    painter: _ArcTextPainter(
-      radius,
-      text,
-      textStyle,
-      initialAngle: startAngle,
-    ),
-  );
+        painter: _ArcTextPainter(
+          radius,
+          text,
+          textStyle,
+          initialAngle: startAngle,
+        ),
+      );
 }
 
 class _ArcTextPainter extends CustomPainter {
-  _ArcTextPainter(this.radius, this.text, this.textStyle, {this.initialAngle = 0});
+  _ArcTextPainter(this.radius, this.text, this.textStyle,
+      {this.initialAngle = 0});
 
   final double radius;
   final String text;
@@ -82,7 +83,8 @@ class _ArcTextPainter extends CustomPainter {
     return alpha;
   }
 
-  double _calculateRotationAngle(double prevAngle, double alpha) => (alpha + prevAngle) / 2;
+  double _calculateRotationAngle(double prevAngle, double alpha) =>
+      (alpha + prevAngle) / 2;
 
   @override
   bool shouldRepaint(covariant CustomPainter oldDelegate) => true;

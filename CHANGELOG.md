@@ -1,3 +1,6 @@
+## [0.0.4] - 2024-11-12
+- code formatting issue fixed.
+
 ## [0.0.3] - 2024-11-08
 - update readme issue.
 
